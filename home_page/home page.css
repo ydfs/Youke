@@ -193,6 +193,11 @@ html, body{
     font-weight: 500;
     color: #FEFEFE;
     line-height: 33px;
+    cursor: pointer;
+    outline: none;
+}
+.two-left button:hover{
+    background: #f4b04a;
 }
 
 
@@ -215,8 +220,12 @@ html, body{
     font-weight: 500;
     color: #FEFEFE;
     line-height: 33px;
+    cursor: pointer;
+    outline: none;
 }
-
+.two-right button:hover{
+    background: #4b63ec;
+}
 .background-right{
     position: absolute;
     display: block;
