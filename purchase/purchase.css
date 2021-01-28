@@ -356,25 +356,6 @@ html, body{
     width: 1400px;
     height: 250px;
 }
-.backgrond-center button{
-    position: absolute;
-    width: 184px;
-    height: 54px;
-    right: 400px;
-    background: #FFFFFF;
-    color: #394BCD;
-    font-size: 24px;
-    font-weight: 500;
-    top: 3055px;
-    cursor: pointer;
-    outline: none;
-    border: none;
-    border-radius: 9px;
-}
-.backgrond-center button:hover{
-    background: rgb(228, 219, 219);
-}
-
 
 
 .body-five{
